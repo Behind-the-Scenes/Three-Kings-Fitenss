@@ -1,0 +1,24 @@
+{
+  "name": "three-kings-fitenss",
+  "version": "1.0.0",
+  "description": "A Foundation For Cristians Future Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Griffinn/Three-Kings-Fitenss.git"
+  },
+  "keywords": [
+    "fitness",
+    "health",
+    "success"
+  ],
+  "author": "Benjamin Griffin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-Griffinn/Three-Kings-Fitenss/issues"
+  },
+  "homepage": "https://github.com/B-Griffinn/Three-Kings-Fitenss#readme"
+}
